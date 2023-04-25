@@ -10,6 +10,15 @@ It's main features are a form for the samples and one for experiments, as shown 
 The database requires LibreOffice and Java.
 
 
+## How to use
+
+### Tailoring the Tables
+To to Tables and open the one you want to modify. For instance, open `Contacts` to add the names of people who provide your samples.
+
+### New entries
+- New Sample: Go to the Forms and open `frmSamples`.
+- New Experiment: Go to the Forms and open `frmMeasurements`.
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/77150450/234284270-355c9d10-bff9-4bb6-89ed-64728fbd6ee9.png)
 
